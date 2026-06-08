@@ -157,7 +157,7 @@ This project demonstrates practical implementation of:
 
 ## Project Images
 
-(Add your project images here)
+Attached
 
 ---
 
@@ -167,5 +167,4 @@ Yug Shah
 
 Electronics and Communication Engineering
 
-GitHub:
-LinkedIn:
+
